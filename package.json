@@ -1,0 +1,25 @@
+{
+  "name": "ems-tracking",
+  "version": "0.0.1",
+  "description": "This is ems tracking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbiro000/ems-tracking-api.git"
+  },
+  "keywords": [
+    "Thailand",
+    "EMS",
+    "Tracking",
+    "API"
+  ],
+  "author": "norbiro000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbiro000/ems-tracking-api/issues"
+  },
+  "homepage": "https://github.com/norbiro000/ems-tracking-api#readme"
+}
